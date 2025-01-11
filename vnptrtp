@@ -1,6 +1,6 @@
 
-#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
-#https://raw.githubusercontent.com/ntd249/ntdiptv/main/mytvrtp#
+#EXTM3U
+
 #------------------------VTV------------------------#
 #EXTINF:0 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1 (HD 8.5Mbps)
 rtp://@232.84.1.117:10254
@@ -822,3 +822,4 @@ rtp://@232.84.1.62:8346
 rtp://@232.84.3.210:11182
 #EXTINF:0 tvg-id="" group-title="" tvg-logo="",(Testcard)
 rtp://@232.84.3.209:11176
+#https://raw.githubusercontent.com/ntd249/ntdiptv/main/mytvrtp#
