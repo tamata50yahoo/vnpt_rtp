@@ -179,7 +179,7 @@ rtp://@232.84.3.117:10654
 
 #EXTINF:0 tvg-id="hbohd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO
 rtp://@232.84.3.101:10648
-rtp://@232.84.2.138:10648
+
 
 #EXTINF:0 tvg-id="animalhd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/TBgGuJy.png",Animal Planet
 rtp://@232.84.3.139:10702
