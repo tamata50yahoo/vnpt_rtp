@@ -172,9 +172,11 @@ rtp://@232.84.3.78:11584
 #------------------------Quốc Tế------------------------#
 
 #EXTINF:0 tvg-id="cinemaxhd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/NzROY7r.png",Cinemax
-rtp://@232.84.3.117:10654
+rtp://@232.84.1.20:8094
+
 #EXTINF:0 tvg-id="hbohd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO
-rtp://@232.84.2.138:10648
+rtp://@232.84.1.19:8088
+
 #EXTINF:0 tvg-id="animalhd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/TBgGuJy.png",Animal Planet
 rtp://@232.84.3.139:10702
 #EXTINF:0 tvg-id="afnhd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/KL9oaqc.png",Asian Food Network
