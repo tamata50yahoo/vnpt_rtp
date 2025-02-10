@@ -83,10 +83,10 @@ rtp://@232.84.3.14:11968
 
 #------------------------K+------------------------#
 
-#EXTINF:0 tvg-id="kcinehd" group-title="K+" tvg-logo="https://i.imgur.com/As4bwUs.png",K+ Cine (HD 9Mbps)
-rtp://@232.84.1.122:10314
-#EXTINF:0 tvg-id="kaction" group-title="K+" tvg-logo="https://i.imgur.com/QPkuBRi.png",K+ Action (HD 9Mbps)
-rtp://@232.84.1.123:10320
+#EXTINF:0 tvg-id="kcinehd" group-title="K+" tvg-logo="https://i.imgur.com/As4bwUs.png",K+ Cine
+rtp://@232.84.1.96:8550
+#EXTINF:0 tvg-id="kaction" group-title="K+" tvg-logo="https://i.imgur.com/QPkuBRi.png",K+ Action
+rtp://@232.84.1.97:8556
 #EXTINF:0 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://i.imgur.com/6yiAtRg.png",K+ Sport 1 (HD 9Mbps)
 rtp://@232.84.1.37:8196
 #EXTINF:0 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://i.imgur.com/EFeyqYX.png",K+ Sport 2 (HD 9Mbps)
@@ -173,7 +173,7 @@ rtp://@232.84.3.78:11584
 #EXTINF:0 tvg-id="cinemaxhd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/NzROY7r.png",Cinemax
 rtp://@232.84.3.117:10654
 #EXTINF:0 tvg-id="hbohd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO
-rtp://@232.84.3.101:10648
+rtp://@232.84.2.138:10648
 #EXTINF:0 tvg-id="animalhd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/TBgGuJy.png",Animal Planet
 rtp://@232.84.3.139:10702
 #EXTINF:0 tvg-id="afnhd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/KL9oaqc.png",Asian Food Network
@@ -199,7 +199,7 @@ rtp://@232.84.3.103:10840
 #EXTINF:0 tvg-id="" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/Yhpx1Ve.png",Clubbing TV
 rtp://@232.84.3.96:11476
 #EXTINF:0 tvg-id="" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/RIQE8kA.png",CNA
-rtp://@232.84.3.155:10540
+rtp://@232.84.2.55:10540
 #EXTINF:0 tvg-id="cnn" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/RCd9AM9.png",CNN
 rtp://@232.84.3.153:10690
 #EXTINF:0 tvg-id="davinci" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/t9fzARL.png",Da Vinci
@@ -238,8 +238,7 @@ rtp://@232.84.3.206:11158
 rtp://@232.84.1.43:8238
 #EXTINF:0 tvg-id="" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/insertlogo.png",ATV
 rtp://@232.84.3.35:11842
-#EXTINF:0 tvg-id="" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/RuFdEA1.png",Baden TV Sud
-rtp://@232.84.3.36:11836
+
 #EXTINF:0 tvg-id="" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/rkF6lUv.png",CCTV2
 rtp://@232.84.3.166:10458
 #EXTINF:0 tvg-id="" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/XXBAJpA.png",CCTV4
