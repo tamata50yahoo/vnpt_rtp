@@ -563,3 +563,18 @@ rtp://@232.84.3.195:11092
 rtp://@232.84.2.197:10966
 #https://raw.githubusercontent.com/ntd249/ntdiptv/main/mytvrtp#
 #https://raw.githubusercontent.com/ntd249/ntdiptv/refs/heads/main/fptudp#
+
+
+#EXTINF:0 tvg-id="cinemaxhd1" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/NzROY7r.png",Cinemax1
+rtp://@232.84.3.117:10654
+#EXTINF:0 tvg-id="hbohd1" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO1
+rtp://@232.84.3.101:10648
+
+#EXTINF:0 tvg-id="kcinehd1" group-title="K+" tvg-logo="https://i.imgur.com/As4bwUs.png",K+ Cine (HD 9Mbps)
+rtp://@232.84.1.122:10314
+#EXTINF:0 tvg-id="kaction1" group-title="K+" tvg-logo="https://i.imgur.com/QPkuBRi.png",K+ Action (HD 9Mbps)
+rtp://@232.84.1.123:10320
+#EXTINF:0 tvg-id="ksport1hd1" group-title="K+" tvg-logo="https://i.imgur.com/6yiAtRg.png",K+ Sport 1 (HD 9Mbps)
+rtp://@232.84.1.125:10326
+#EXTINF:0 tvg-id="ksport2hd1" group-title="K+" tvg-logo="https://i.imgur.com/EFeyqYX.png",K+ Sport 2 (HD 9Mbps)
+rtp://@232.84.1.176:10374
