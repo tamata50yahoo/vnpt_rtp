@@ -578,3 +578,5 @@ rtp://@232.84.1.123:10320
 rtp://@232.84.1.125:10326
 #EXTINF:0 tvg-id="ksport2hd1" group-title="K+" tvg-logo="https://i.imgur.com/EFeyqYX.png",K+ Sport 2 (HD 9Mbps)
 rtp://@232.84.1.176:10374
+#EXTINF:0 tvg-id="kkidshd1" group-title="K+" tvg-logo="https://i.imgur.com/erWqYxh.png",K+ Kids
+rtp://@232.84.3.43:11794
