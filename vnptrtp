@@ -534,32 +534,32 @@ rtp://@232.84.2.117:8826
 rtp://@232.84.2.118:8838
 
 #------------------------MyTV------------------------#
-#EXTINF:0 tvg-id="" group-title="MyTV Service" tvg-logo="https://i.imgur.com/NWtbAS5.png",Feed Quốc Hội
+#EXTINF:0 tvg-id="feedqh" group-title="MyTV Service" tvg-logo="https://i.imgur.com/NWtbAS5.png",Feed Quốc Hội
 rtp://@232.84.3.1:10278
-#EXTINF:0 tvg-id="" group-title="MyTV Service" tvg-logo="https://i.imgur.com/NWtbAS5.png",Event 801
+#EXTINF:0 tvg-id="event801" group-title="MyTV Service" tvg-logo="https://i.imgur.com/NWtbAS5.png",Event 801
 rtp://@232.84.2.175:10858
-#EXTINF:0 tvg-id="" group-title="MyTV Service" tvg-logo="https://i.imgur.com/NWtbAS5.png",Event 802
+#EXTINF:0 tvg-id="event802" group-title="MyTV Service" tvg-logo="https://i.imgur.com/NWtbAS5.png",Event 802
 rtp://@232.84.2.176:10864
-#EXTINF:0 tvg-id="" group-title="MyTV Service" tvg-logo="https://i.imgur.com/NWtbAS5.png",Event 803
+#EXTINF:0 tvg-id="event803" group-title="MyTV Service" tvg-logo="https://i.imgur.com/NWtbAS5.png",Event 803
 rtp://@232.84.2.195:10954
-#EXTINF:0 tvg-id="" group-title="MyTV Service" tvg-logo="https://i.imgur.com/NWtbAS5.png",Event 804
+#EXTINF:0 tvg-id="event804" group-title="MyTV Service" tvg-logo="https://i.imgur.com/NWtbAS5.png",Event 804
 rtp://@232.84.2.196:10960
-#EXTINF:0 tvg-id="" group-title="MyTV Service" tvg-logo="https://i.imgur.com/NWtbAS5.png",Mosaic
+#EXTINF:0 tvg-id="mosiac" group-title="MyTV Service" tvg-logo="https://i.imgur.com/NWtbAS5.png",Mosaic
 rtp://@232.84.3.173:9432
-#EXTINF:0 tvg-id="" group-title="MyTV Service" tvg-logo="https://i.imgur.com/MZIGm1R.png",Meliã Hotels International
+#EXTINF:0 tvg-id="melia" group-title="MyTV Service" tvg-logo="https://i.imgur.com/MZIGm1R.png",Meliã Hotels International
 rtp://@232.84.2.54:10534
 
-#EXTINF:0 tvg-id="" group-title="MyTV Service" tvg-logo="https://i.imgur.com/0uCFndD.png",Vin Pearl
+#EXTINF:0 tvg-id="vinpearl" group-title="MyTV Service" tvg-logo="https://i.imgur.com/0uCFndD.png",Vin Pearl
 rtp://@232.84.1.239:10302
-#EXTINF:0 tvg-id="" group-title="MyTV Service" tvg-logo="https://i.imgur.com/mceQLHA.png",Laguna Lăng Cô
+#EXTINF:0 tvg-id="langco" group-title="MyTV Service" tvg-logo="https://i.imgur.com/mceQLHA.png",Laguna Lăng Cô
 rtp://@232.84.2.56:10546
-#EXTINF:0 tvg-id="" group-title="MyTV Service" tvg-logo="https://i.imgur.com/QzD6Gv0.png",Marriott Bonvoy
+#EXTINF:0 tvg-id="mariot" group-title="MyTV Service" tvg-logo="https://i.imgur.com/QzD6Gv0.png",Marriott Bonvoy
 rtp://@232.84.1.159:10422
-#EXTINF:0 tvg-id="" group-title="MyTV Service" tvg-logo="https://i.imgur.com/NWtbAS5.png",MyTV Promo
+#EXTINF:0 tvg-id="promo" group-title="MyTV Service" tvg-logo="https://i.imgur.com/NWtbAS5.png",MyTV Promo
 rtp://@232.84.3.195:11092
 
 #------------------------Mua Sắm------------------------#
-#EXTINF:0 tvg-id="" group-title="Mua Sắm" tvg-logo="https://i.imgur.com/Y8JlcPP.png",BTV6
+#EXTINF:0 tvg-id="btv6" group-title="Mua Sắm" tvg-logo="https://i.imgur.com/Y8JlcPP.png",BTV6
 rtp://@232.84.2.197:10966
 #https://raw.githubusercontent.com/ntd249/ntdiptv/main/mytvrtp#
 #https://raw.githubusercontent.com/ntd249/ntdiptv/refs/heads/main/fptudp#
