@@ -79,7 +79,7 @@ rtp://@232.84.3.17:11950
 rtp://@232.84.3.16:11956
 #EXTINF:0 tvg-id="sctv22hd" group-title="SCTV" tvg-logo="https://i.imgur.com/O0HdUpB.png",SCTV22 (HD 7Mbps)
 rtp://@232.84.3.15:11962
-#EXTINF:0 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="https://i.imgur.com/VzZYa4n.png",SCTV Phim Tổng Hợp (HD 6Mbps)
+#EXTINF:0 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="https://i.imgur.com/VzZYa4n.png",SCTV Phim Tổng Hợp
 rtp://@232.84.3.14:11968
 
 #------------------------K+------------------------#
