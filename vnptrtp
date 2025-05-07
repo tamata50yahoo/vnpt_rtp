@@ -190,9 +190,9 @@ rtp://@232.84.1.20:8094
 #EXTINF:0 tvg-id="hbohd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO
 rtp://@232.84.1.19:8088
 
-#EXTINF:0 tvg-id="cinemaxhd1" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/NzROY7r.png",Cinemax SD
+#EXTINF:0 tvg-id="cinemaxhd1" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/NzROY7r.png",Cinemax HD
 rtp://@232.84.3.117:10654
-#EXTINF:0 tvg-id="hbohd1" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO SD
+#EXTINF:0 tvg-id="hbohd1" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO HD
 rtp://@232.84.3.101:10648
 
 #EXTINF:0 tvg-id="spotv1" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/hXYkO7B.png",SPOTV
