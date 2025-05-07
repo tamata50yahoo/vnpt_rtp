@@ -92,7 +92,7 @@ rtp://@232.84.1.97:8556
 rtp://@232.84.1.98:8562
 #EXTINF:0 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://i.imgur.com/EFeyqYX.png",K+ Sport 2
 rtp://@232.84.1.131:10368
-#EXTINF:0 tvg-id="kkidshd" group-title="K+" tvg-logo="https://i.imgur.com/erWqYxh.png",K+ Kids (HD 9Mbps)
+#EXTINF:0 tvg-id="kkidshd" group-title="K+" tvg-logo="https://i.imgur.com/erWqYxh.png",K+ Kids HD
 rtp://@232.84.3.42:11800
 
 #------------------------HTV/HTVC------------------------#
