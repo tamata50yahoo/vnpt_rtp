@@ -39,9 +39,9 @@ rtp://@232.84.1.212:9246
 
 #------------------------SCTV------------------------#
 
-#EXTINF:0 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://i.imgur.com/imhFxSG.png",SCTV1 (HD 5Mbps)
+#EXTINF:0 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://i.imgur.com/imhFxSG.png",SCTV1 HD
 rtp://@232.84.3.34:11848
-#EXTINF:0 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://i.imgur.com/UpBZOaH.png",SCTV2 (HD 6Mbps)
+#EXTINF:0 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://i.imgur.com/UpBZOaH.png",SCTV2 HD
 rtp://@232.84.3.33:11854
 #EXTINF:0 tvg-id="sctv3hd" group-title="SCTV" tvg-logo="https://i.imgur.com/wZrGAtH.png",SCTV3 HD
 rtp://@232.84.3.32:11860
@@ -49,11 +49,11 @@ rtp://@232.84.3.32:11860
 rtp://@232.84.3.31:11866
 #EXTINF:0 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://i.imgur.com/pSIvTkZ.png",SCTV6 HD
 rtp://@232.84.3.30:11872
-#EXTINF:0 tvg-id="sctv7hd" group-title="SCTV" tvg-logo="https://i.imgur.com/EdjXUUb.png",SCTV7 (HD 6Mbps)
+#EXTINF:0 tvg-id="sctv7hd" group-title="SCTV" tvg-logo="https://i.imgur.com/EdjXUUb.png",SCTV7 HD
 rtp://@232.84.3.29:11878
-#EXTINF:0 tvg-id="sctv8hd" group-title="SCTV" tvg-logo="https://i.imgur.com/NULoCoA.png",SCTV8 (HD 5Mbps)
+#EXTINF:0 tvg-id="sctv8hd" group-title="SCTV" tvg-logo="https://i.imgur.com/NULoCoA.png",SCTV8 HD
 rtp://@232.84.3.28:11884
-#EXTINF:0 tvg-id="sctv9hd" group-title="SCTV" tvg-logo="https://i.imgur.com/6dvyvea.png",SCTV9 (HD 8Mbps)
+#EXTINF:0 tvg-id="sctv9hd" group-title="SCTV" tvg-logo="https://i.imgur.com/6dvyvea.png",SCTV9 HD
 rtp://@232.84.3.27:11890
 #EXTINF:0 tvg-id="sctv11hd" group-title="SCTV" tvg-logo="https://i.imgur.com/AP2o4bW.png",SCTV11 HD
 rtp://@232.84.3.26:11896
